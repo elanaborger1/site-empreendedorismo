@@ -1,0 +1,6 @@
+body{background-color: blueviolet;}
+
+.topo{display: flex;
+}
+
+.alunos{display: inline-block;}
